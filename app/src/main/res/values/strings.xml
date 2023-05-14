@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">kamal_musaev_hw_3_2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name">name</string>
+    <string name="lastname">lastname</string>
+    <string name="age">age</string>
+    <string name="gender">gender</string>
+    <string name="place_of_study">place of study</string>
+    <string name="place_of_work">place of work</string>
+    <string name="information">Information:</string>
+    <string name="next">next</string>
+    <string name="done">done</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
